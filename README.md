@@ -1,1 +1,1 @@
-# projetLXP
+# ProjetLXP
